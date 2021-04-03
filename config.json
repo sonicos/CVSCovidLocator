@@ -1,0 +1,8 @@
+{
+  "endpoint": "https://www.cvs.com/Services/ICEAGPV1/immunization/1.0.0/getIMZStores",
+  "apiKey": "Insert Key Here",
+  "minDelay": 3,
+  "maxDelay": 7,
+  "searchZips": [ "00000", "11111" ]
+
+}

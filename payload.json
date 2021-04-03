@@ -1,0 +1,26 @@
+﻿{
+  "requestMetaData": {
+    "appName": "CVS_WEB",
+    "lineOfBusiness": "RETAIL",
+    "channelName": "WEB",
+    "deviceType": "DESKTOP",
+    "deviceToken": "7777",
+    "apiKey": "___APIKEY___",
+    "source": "ICE_WEB",
+    "securityType": "apiKey",
+    "responseFormat": "JSON",
+    "type": "cn-dep"
+  },
+  "requestPayloadData": {
+    "selectedImmunization": [ "CVD" ],
+    "distanceInMiles": 35,
+    "imzData": [
+      {
+        "imzType": "CVD",
+        "ndc": [ "59267100002", "59267100003", "59676058015", "80777027399" ],
+        "allocationType": "1"
+      }
+    ],
+    "searchCriteria": { "addressLine": "___ZIP___" }
+  }
+}
