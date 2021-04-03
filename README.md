@@ -5,6 +5,8 @@ For the sake of clarity this will *NOT* reserve you a spot or anything like that
 
 You'll also need to fill out the API key for yourself. It shouldn't be hard to find if you watch the network calls from your browser's dev tools...
 
+API Key and ZIP codes to search can be set in the config.json file.
+
 Yes this is bad code, and there are ways to optimize it. I just built something to be quick and dirty to serve a purpose.
 
 ![Ui](CVSAvail.png)
